@@ -48,12 +48,18 @@ Right now I'm building [**Ashmartisan**](https://ashmartisan.com), which turns C
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top" width="50%">
+    <td width="50%" valign="top">
       <img src="assets/tattoo.png" alt="An AR tattoo previewer">
       <h3>Markless AR Tattoo</h3>
       AR tattoos that need no marker draws on the body.
     </td>
-    
+    <td width="50%" valign="top">
+      <a href="https://ashmartisan.com/blog/portfolio/vibe-coding-simulator/"><img src="assets/vibe-coding-simulator.jpg" alt="The Vibe Coding Simulator title screen"></a>
+      <h3><a href="https://ashmartisan.com/blog/portfolio/vibe-coding-simulator/">Vibe Coding Simulator: Ship It!</a></h3>
+      Quit your job, let the AI write your code, and try not to go bankrupt before Investor Demo Day. A cozy startup sim in a low-poly 3D office, where every product is built in a card-combo roguelite.
+      <br><br>
+      <code>Babylon.js</code> <code>In development</code>
+    </td>
   </tr>
 </table>
 
