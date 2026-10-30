@@ -50,6 +50,7 @@ Right now I'm building [**Ashmartisan**](https://ashmartisan.com), which turns C
   <tr>
     <td width="50%" valign="top">
       <img src="assets/tattoo.png" alt="An AR tattoo previewer">
+      <img src="assets/tattoo2.gif" >
       <h3>Markless AR Tattoo</h3>
       AR tattoos that need no marker draws on the body.
     </td>
