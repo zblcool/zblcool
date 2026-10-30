@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-label="Virtual screens floating above a wireframe floor">
+<defs><clipPath id="panel"><rect width="960" height="540" rx="12"/></clipPath></defs>
+<g clip-path="url(#panel)">
+<rect width="960" height="540" fill="#0b0d10"/>
+<path d="M-2400 540L480 350M-2240 540L480 350M-2080 540L480 350M-1920 540L480 350M-1760 540L480 350M-1600 540L480 350M-1440 540L480 350M-1280 540L480 350M-1120 540L480 350M-960 540L480 350M-800 540L480 350M-640 540L480 350M-480 540L480 350M-320 540L480 350M-160 540L480 350M0 540L480 350M160 540L480 350M320 540L480 350M480 540L480 350M640 540L480 350M800 540L480 350M960 540L480 350M1120 540L480 350M1280 540L480 350M1440 540L480 350M1600 540L480 350M1760 540L480 350M1920 540L480 350M2080 540L480 350M2240 540L480 350M2400 540L480 350M2560 540L480 350M2720 540L480 350M2880 540L480 350M3040 540L480 350M3200 540L480 350M3360 540L480 350M0 352.6L960 352.6M0 362.1L960 362.1M0 379.5L960 379.5M0 405.5L960 405.5M0 440.6L960 440.6M0 485.4L960 485.4M0 540L960 540" fill="none" stroke="#c9d1d9" stroke-opacity="0.248"/>
+<rect width="960" height="351" fill="#0b0d10"/>
+<polygon points="70,130 290,100 290,300 70,300" fill="#f4f1ea" fill-opacity="0.05" stroke="#c9d1d9" stroke-opacity="0.62" stroke-width="1.5"/><path d="M90 169.5L202 157.5M90 198.4L216.96 186.4M90 227.3L231.92 215.3" stroke="#9aa3ad" stroke-opacity="0.55" stroke-width="5" stroke-linecap="round" fill="none"/>
+<polygon points="350,70 610,70 610,280 350,280" fill="#f4f1ea" fill-opacity="0.05" stroke="#f2a14f" stroke-opacity="1" stroke-width="2.5"/><path d="M370 122.5L506 122.5M370 158.2L523.6800000000001 158.2M370 193.9L541.36 193.9" stroke="#9aa3ad" stroke-opacity="0.55" stroke-width="5" stroke-linecap="round" fill="none"/>
+<polygon points="670,100 890,130 890,300 670,300" fill="#f4f1ea" fill-opacity="0.05" stroke="#c9d1d9" stroke-opacity="0.62" stroke-width="1.5"/><path d="M690 153L802 165M690 187L816.96 199M690 221L831.92 233" stroke="#9aa3ad" stroke-opacity="0.55" stroke-width="5" stroke-linecap="round" fill="none"/>
+</g>
+</svg>
