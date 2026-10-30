@@ -53,6 +53,7 @@ Right now I'm building [**Ashmartisan**](https://ashmartisan.com), which turns C
       <h3>Markless AR Tattoo</h3>
       AR tattoos that need no marker draws on the body.
     </td>
+    <td></td>
   </tr>
 </table>
 
